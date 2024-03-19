@@ -1,4 +1,4 @@
-name: Add URLs in Sitemap
+name: Add URLs in Sitemaps
 
 on:
   workflow_dispatch:
