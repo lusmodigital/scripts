@@ -1,1 +1,1 @@
-Scripts GO Taruh di `.github/workflows/`
+Scripts YAML Taruh di `.github/workflows/`
